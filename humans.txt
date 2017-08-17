@@ -1,0 +1,12 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+   Everything: Edgar Simo-Serra
+   From: Tokyo, Japan
+
+# TECHNOLOGY COLOPHON
+
+   CSS3, HTML5
+   jQuery, bx-slider, colorbox, justified-gallery, Normalize.css
